@@ -1,0 +1,404 @@
+header{
+	width: 100%;
+	height: 100px;
+}
+
+.logo{
+	width: 100%;
+	height: 100%;
+}
+
+#logo{
+	width: 100px;
+	height: 100px;
+}
+
+#menu{
+	padding: 0;
+}
+
+#menu li{
+	display: inline;
+	border-left: 1px solid #A9D0F5;
+}
+
+.inicio{
+	border-left: 1px solid white !important;
+}
+
+#menu li a{
+	font-family: Helvetica;
+	font-size:15px;
+	text-decoration: none;
+	padding: 10px;
+	margin: 0 auto;
+	color: #A9D0F5;
+	text-align: center;
+}
+
+nav ul{
+	float: left;
+	margin-top: 40px;
+	position: relative;;
+	left: 75px;
+}
+
+#menu li a:hover{
+	color: #04B404;
+}
+
+.seccion1{
+	background-image: url("../img/semilla.jpg");
+	background-repeat: no-repeat;
+	background-position:50% 50%;
+	background-size: 100%;
+	height: 350px;
+}
+
+.seccion2{
+	width: 100%;
+	height: 200px;
+	background-color: #F2F2F2;
+}
+
+.info1{
+	margin: 70px auto;
+	text-align: center;
+	color: #6E6E6E;
+	font-size: 15px;
+}
+
+.seccion3{
+	width: 100%;
+	height: 350px;
+}
+
+.mision{
+	margin-top: 50px;
+	text-align: center;
+}
+
+.misionestilo{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.misionestilo2{
+	font-size: 13px;
+	text-align: center;
+}
+
+.seccion4{
+	width: 100%;
+	height: 350px;
+	background-color: #4B610B;
+}
+
+.seccion4{
+	width: 100%;
+	height: 300px;
+	background: url("../img/metodo.jpg") top left no-repeat,
+	url("../img/fondo.jpg") top right no-repeat;
+	background-size: 50%;
+}
+
+
+.logo2{
+	width: 100%;
+	height: 100%;
+}
+
+#logo2{
+	width: 40px;
+	height: 40px;
+	margin: 0 auto;
+	margin-top: 100px;
+	margin-bottom: 20px;
+}
+
+.metodologia1{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+.metodologiainfo{
+	margin-top: 20px;
+	text-align: center;
+	color: #A4A4A4;
+	font-size: 13px;
+}
+
+.seccion5{
+	width: 100%;
+	height: 200px;
+	padding-top: 50px;
+}
+
+.seccion6{
+	width: 100%;
+	height: 650px;
+}
+
+.servicios{
+	width: 190px;
+	margin: 0 auto;
+	text-align: center;
+	color: #688A08;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+.serviciosinfo{
+	text-align: center;
+	padding-top: 10px;
+	font-size: 12px;
+}
+
+.serviciostitulolargo{
+	width: 300px;
+	margin: 0 auto;
+	text-align: center;
+	color: #688A08;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+.seccion7{
+	width: 100%;
+	height: 800px;	
+	padding: 60px 0px 60px;
+}
+
+.cursiva{
+	font-family: cursive;
+	font-size: 23px;
+	color: white;
+}
+
+#imgproyectos{
+	width: 470px;
+	height: 330px;
+	margin-bottom: 5px;
+}
+.imgproyectos{
+	width: 100%;
+	height: 100%;
+}
+
+.descproyectos{
+	font-size: 20px;
+	color:#BDBDBD; 
+	text-align: center;
+}
+
+.distrito{
+	font-size: 17px;
+	color:#BDBDBD; 
+	text-align: center;
+}
+
+.infoproyectos{
+	font-size: 13px;
+	color:#BDBDBD; 
+	text-align: center;
+}
+
+.espacio{
+	margin-top: 60px;
+	margin-bottom: 200px;
+	margin-left: 70px;
+}
+
+.seccion8{
+	width: 100%;
+	height: 450px;	
+	padding: 60px 0px 60px;
+}
+
+#equipo{
+	font-size: 20px;
+	color:#4B610B; 
+	font-weight: bold;
+}
+
+div .perfil{
+	margin-top: 10px;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+ .perfilr{
+	margin-top: 10px;
+    width: 100%; 
+    border-radius: 100%;
+}
+
+.nameperfil{
+	margin-top: 50px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+.nameperfil2{
+	text-align: center;
+	font-weight: bold;
+	font-size: 11px;
+	font-weight: bold;
+}
+
+.nameperfil3{
+	text-align: center;
+	font-weight: bold;
+	font-size: 10px;
+}
+
+.rinline{
+	display: inline-block;
+	margin-top: 20px;
+	padding-left: 5px;
+}
+.rchico{ 
+	width: 25px;
+	height: 25px;
+}
+
+.cajaredes{
+	float: left;
+	position: relative;
+	left: 93px;
+}
+	
+.seccion9{
+	background-image: url("../img/fondo2.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 470px;
+	padding-top: 60px;
+}
+
+#botonverde{
+	width: 20px;
+    height: 20px;
+}
+
+#botonverde{
+	width: 20px;
+    height: 20px;
+}
+
+#blog1{
+    width: 350;
+    height: 200px;
+}
+
+.titulob{
+	float: left;
+	position: relative;
+	right: 25px;
+	font-size: 20px;
+}
+
+.blog1{ 
+width: 100%;
+height: 100%;
+}
+
+.letrapost{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.letrapost1{
+	font-size: 13px;
+}
+
+.letrapost2{
+	font-size: 13px;
+	padding left: 0px;
+}
+
+.slider{
+	float:left;
+	position: relative;
+	bottom: 230px;
+	right: 50px;
+}
+
+.slider2{
+	float:left;
+	position: relative;
+	bottom: 235px;
+	left: 926px;
+}
+
+.seccion10{
+	width: 100%;
+	height: 300px;
+	
+}
+
+.cajagrande{
+	width: 403px;
+	height: 150px;
+	border: 1px solid black;
+	padding: 0;
+}
+
+.cajachica{
+	width: 100px;
+	height:100px;
+	border: 1px solid red;
+	display: inline-block;
+	padding: 0;
+}
+
+.nueva{
+	width: 100%;
+	height: 350px;
+}
+
+.cajan{
+	width: 220px;
+	height: 220px;
+	float: left;
+	position: relative;
+	left: 2%;
+	top: 60px;
+	border: 1px solid white;
+	padding-top: 20px;
+	padding-left: 20px;
+	border-right: none;
+}
+
+.bordesi{
+	border-right: 1px solid white !important;
+}
+
+.iconos{
+	width: 100%;
+	height: 100%;
+}
+
+#iconos{
+	width: 35px;
+	height: 35px;
+	float: right;
+	position: relative;
+	right: 20%;
+	top: 15px;
+}
+
+.final{
+	width: 100%;
+	height: 130px;
+	padding-top: 50px;
+}
+
+.copy{
+	font-size: 11px;
+}
